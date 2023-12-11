@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>stackable items mod</name>
+    <directory>stackable items mod</directory>
+    <id>3063257113</id>
+    <description>[h1]If you like the mod, give me a follow on Twitter![/h1]
+It's free, it's the best way to support me, and I'll be posting about this mod and other projects there!
+https://twitter.com/kd0gjake
+
+[h1]Description[/h1]
+This mod allows for stacking of some specific items, with the end goal of making most items that don't stack in the base game stack. Read the mod's change notes to see how items stack.
+[h2]NOW WITH MOD CONFIG MENU SUPPORT![/h2]
+
+[h1]Current Items[/h1]
+- Cursed Eye
+- Car Battery
+- Loki's Horns (does not stack infinitely) (WIP)
+- Giant Cell
+- X-Ray Vision (does not stack infinitely)
+- Isaac's Tomb
+- Heartbreak
+- Card Reading (does not stack infinitely)
+- Guppy's Tail
+- Cracked Orb (does not stack infinitely)
+- Schoolbag (does not stack infinitely) (see change notes)
+- Infestation
+- Infestation 2
+- Jumper Cables (does not stack infinitely)
+- Eye Sore
+- Empty Heart
+- 9 Volt
+- Bloody Lust
+- Bloody Gust
+- Lusty Blood
+- The Stairway (does not stack infinitely)
+- Scapular
+- Gnawed Leaf
+- Linger Bean
+- Godhead
+- No. 2 (visuals are bugged, please comment and/or DM me on Twitter if you know how to fix it)
+- Tiny Planet
+- Serpent's Kiss
+
+[h2]Please note that updates will likely be released inconsistently, as I'm still in school.[/h2]
+
+[h2]Check out Hutts’ video on the mod here![/h2]
+https://youtu.be/CShMxC-pfMA?si=-DBtW0t3D2tMEWcz
+Yes, the comment on Hutts’ video is from me.
+
+[h1]Credits:[/h1]
+- Hutts - Original Mod Idea
+- TheTurtleMelon - Ideas &amp; Mod Thumbnail
+- PixelPlz - Boss rush and Hush door code for X-Ray vision</description>
+    <version>1.17</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Tweaks"/>
+</metadata>
